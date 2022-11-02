@@ -55,7 +55,10 @@ Try some. Here is a list you should at least try out:
 
 ## Command palette
 
-Press <kbd>Command</kbd>+<kbd>k</kbd> (or <kbd>Command</kbd>+<kbd>Option</kbd>+<kbd>k</kbd>) to open the command palette. 
+Press the following keyboard shortcuts to [open the command palette](https://docs.github.com/en/get-started/using-github/github-command-palette):
+
+- Mac: <kbd>Command</kbd>+<kbd>K</kbd> or <kbd>Command</kbd>+<kbd>Option</kbd>+<kbd>K</kbd>
+- Windows and Linux: <kbd>Ctrl</kbd>+<kbd>K</kbd> or <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>K</kbd>
   
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/5276337/199483344-9a832d0a-4741-4277-8135-108b7f8fabbe.png">
 
@@ -64,8 +67,9 @@ Press <kbd>Command</kbd>+<kbd>k</kbd> (or <kbd>Command</kbd>+<kbd>Option</kbd>+<
 - [ ] Press <kbd>!</kbd> to search for projects
 - [ ] Press <kbd>/</kbd> to search for files
 - [ ] Press <kbd>?</kbd> to get help
-- [ ] Use <kbd>tab</kbd> and <kbd>backspace</kbd> to navigate in GitHub
-- [ ] Use <kbd>Enter to select</kbd>
+- [ ] Use <kbd>Tab</kbd> and <kbd>Backspace</kbd> or <kbd>Delete</kbd> to navigate in GitHub
+- [ ] Use <kbd>Enter</kbd> to select the item / navigate to it
+- [ ] Use <kbd>Ctrl</kbd>+<kbd>Backspace</kbd> (Windows / Linux) or <kbd>Command</kbd>+<kbd>Delete</kbd> (Mac) to clear the scope and textbox
 
 ## 👥 Audience
 
