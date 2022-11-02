@@ -21,7 +21,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ### Part 1.1: 🚀 GitHub Fundamentals
 
-- [ ] Navigating GitHub
+- [ ] [Navigating GitHub](#-navigating-github)
 - [ ] Mobile and Profile
 - [ ] GitHub-flavored markdown
 
@@ -32,7 +32,9 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] GitHub Issues
 - [ ] GitHub Projects
 
-## Audience
+## 🧭 Navigating GitHub
+
+## 👥 Audience
 
 This training is for all other roles involved in product development besides developers - like `product owners`, `designers`, or any other type of `stakeholder`. The audience can also contain people completely new to engineering. That's why we try not to use the command-line and do everything in visual tools. The focus of this training are the collaboration features and how to use them effectively.
 
