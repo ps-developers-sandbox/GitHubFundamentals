@@ -34,17 +34,38 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ## 🧭 Navigating GitHub
 
+### GitHub
+
+Navigate to github.com and inspect the menus and the feed. Note the the `For You` feed can be customized by clicking `show less activity like that` in the menu of the items.
+
+<img width="655" alt="image" src="https://user-images.githubusercontent.com/5276337/199487145-4dce52c9-5a33-4f5a-8bb3-b2ff9c91bb58.png">
+
+
 ### Keyboard shortcusts
 
 Press <kbd>?</kbd> everywhere in GitHub to get context-sensitive list of [keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts).
 
-<img width="610" alt="image" src="https://user-images.githubusercontent.com/5276337/199472442-3f4d0f40-60fd-40fe-88f3-35040833b00f.png">
+<img width="310" alt="image" src="https://user-images.githubusercontent.com/5276337/199472442-3f4d0f40-60fd-40fe-88f3-35040833b00f.png">
 
 Try some. Here is a list you should at least try out:
 
 - [ ] Press <kbd>.</kbd> to open the current repository in [github.dev](https://github.dev/) (Visual Studio Code in the browser) or <kbd>></kbd> to open it in a new tab.
 - [ ] Press <kbd>s</kbd> or <kbd>/</kbd> to start a search.
 - [ ] Press <kbd>g</kbd>+<kbd>n</kbd> to go to the notifications
+
+## Command palette
+
+Press <kbd>Command</kbd>+<kbd>k</kbd> (or <kbd>Command</kbd>+<kbd>Option</kbd>+<kbd>k</kbd>) to open the command palette. 
+  
+<img width="310" alt="image" src="https://user-images.githubusercontent.com/5276337/199483344-9a832d0a-4741-4277-8135-108b7f8fabbe.png">
+
+- [ ] Press <kbd>#</kbd> to search for issues, pull requests, discussions, and projects
+- [ ] Use filters like `# author:@me` or `# is:pr` in your search
+- [ ] Press <kbd>!</kbd> to search for projects
+- [ ] Press <kbd>/</kbd> to search for files
+- [ ] Press <kbd>?</kbd> to get help
+- [ ] Use <kbd>tab</kbd> and <kbd>backspace</kbd> to navigate in GitHub
+- [ ] Use <kbd>Enter to select</kbd>
 
 ## 👥 Audience
 
