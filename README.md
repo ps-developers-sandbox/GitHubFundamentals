@@ -34,14 +34,14 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ## 🧭 Navigating GitHub
 
-### GitHub
+### 🏠 GitHub
 
 Navigate to github.com and inspect the menus and the feed. Note the the `For You` feed can be customized by clicking `show less activity like that` in the menu of the items.
 
 <img width="655" alt="image" src="https://user-images.githubusercontent.com/5276337/199487145-4dce52c9-5a33-4f5a-8bb3-b2ff9c91bb58.png">
 
 
-### Keyboard shortcusts
+### ⌨️ Keyboard shortcusts
 
 Press <kbd>?</kbd> everywhere in GitHub to get context-sensitive list of [keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts).
 
@@ -53,7 +53,7 @@ Try some. Here is a list you should at least try out:
 - [ ] Press <kbd>s</kbd> or <kbd>/</kbd> to start a search.
 - [ ] Press <kbd>g</kbd>+<kbd>n</kbd> to go to the notifications
 
-## Command palette
+### 🔍 Command palette
 
 Press the following keyboard shortcuts to [open the command palette](https://docs.github.com/en/get-started/using-github/github-command-palette):
 
@@ -70,6 +70,14 @@ Press the following keyboard shortcuts to [open the command palette](https://doc
 - [ ] Use <kbd>Tab</kbd> and <kbd>Backspace</kbd> or <kbd>Delete</kbd> to navigate in GitHub
 - [ ] Use <kbd>Enter</kbd> to select the item / navigate to it
 - [ ] Use <kbd>Ctrl</kbd>+<kbd>Backspace</kbd> (Windows / Linux) or <kbd>Command</kbd>+<kbd>Delete</kbd> (Mac) to clear the scope and textbox
+- [ ] Use <kbd>Esc</kbd> to close the command palette (or the same keyboard shortcut you used to open it).
+
+### ⚡ Running commands
+
+Press the following keyboard shortcuts to [open the command palette in command mode](https://docs.github.com/en/get-started/using-github/github-command-palette#running-commands-from-the-github-command-palette):
+
+- Mac: <kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>
+- Windows and Linux: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> or <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>K</kbd>
 
 ## 👥 Audience
 
