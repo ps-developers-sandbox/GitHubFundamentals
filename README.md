@@ -81,7 +81,10 @@ Press the following keyboard shortcuts to [open the command palette in command m
 
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/5276337/199553436-9bc15185-ffd1-4a5c-bdd6-aac63980f516.png">
 
-- [ ] Try commands like `Switch theme`, `New gist`, or `New repository`.
+Try commands like:
+- [ ]  `Switch theme` 
+- [ ]  `New gist` 
+- [ ]  `New repository`
 
 ## 👥 Audience
 
