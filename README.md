@@ -34,9 +34,15 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ## 🧭 Navigating GitHub
 
-### Shortcusts
+### Keyboard shortcusts
 
-Press <kbd>?</kbd> everywhere in GitHub to get context-sensitive list of shortcuts.
+Press <kbd>?</kbd> everywhere in GitHub to get context-sensitive list of [keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts).
+
+<img width="610" alt="image" src="https://user-images.githubusercontent.com/5276337/199472442-3f4d0f40-60fd-40fe-88f3-35040833b00f.png">
+
+Try some. Here is a list you should at least try out:
+
+- [ ] Press <kbd>.</kbd> to open the current repository in [github.dev](https://github.dev/) (Visual Studio Code in the browser) or <kbd>></kbd> to open it in a new tab.
 
 ## 👥 Audience
 
