@@ -79,6 +79,10 @@ Press the following keyboard shortcuts to [open the command palette in command m
 - Mac: <kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>
 - Windows and Linux: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> or <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>K</kbd>
 
+<img width="310" alt="image" src="https://user-images.githubusercontent.com/5276337/199553436-9bc15185-ffd1-4a5c-bdd6-aac63980f516.png">
+
+- [ ] Try commands like `Switch theme`, `New gist`, or `New repository`.
+
 ## 👥 Audience
 
 This training is for all other roles involved in product development besides developers - like `product owners`, `designers`, or any other type of `stakeholder`. The audience can also contain people completely new to engineering. That's why we try not to use the command-line and do everything in visual tools. The focus of this training are the collaboration features and how to use them effectively.
