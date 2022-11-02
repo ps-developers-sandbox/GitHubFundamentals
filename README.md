@@ -34,6 +34,10 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ## 🧭 Navigating GitHub
 
+### Shortcusts
+
+Press <kbd>?</kbd> everywhere in GitHub to get context-sensitive list of shortcuts.
+
 ## 👥 Audience
 
 This training is for all other roles involved in product development besides developers - like `product owners`, `designers`, or any other type of `stakeholder`. The audience can also contain people completely new to engineering. That's why we try not to use the command-line and do everything in visual tools. The focus of this training are the collaboration features and how to use them effectively.
