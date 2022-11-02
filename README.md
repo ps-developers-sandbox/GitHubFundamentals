@@ -43,6 +43,8 @@ Press <kbd>?</kbd> everywhere in GitHub to get context-sensitive list of [keyboa
 Try some. Here is a list you should at least try out:
 
 - [ ] Press <kbd>.</kbd> to open the current repository in [github.dev](https://github.dev/) (Visual Studio Code in the browser) or <kbd>></kbd> to open it in a new tab.
+- [ ] Press <kbd>s</kbd> or <kbd>/</kbd> to start a search.
+- [ ] Press <kbd>g</kbd>+<kbd>n</kbd> to go to the notifications
 
 ## 👥 Audience
 
