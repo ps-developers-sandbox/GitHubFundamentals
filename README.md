@@ -90,6 +90,11 @@ Try commands like:
 
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/5276337/199670576-81ec4c53-6be9-447a-aaf5-f22d1deb3f4f.png">
 
+### 🌟 Stars
+
+<img width="546" alt="image" src="https://user-images.githubusercontent.com/5276337/199671174-a304637b-1fb5-46ef-b987-8b8af3d45ff1.png">
+
+
 
 ## 👥 Audience
 
