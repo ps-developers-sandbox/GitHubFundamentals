@@ -110,6 +110,9 @@ You can also see all your contributions that happend on GitHub.
 
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/5276337/199671371-81930feb-3f2b-441a-bd9f-47d4f9617efe.png">
 
+### 📣 Notifications
+
+### 🚶GitHub Mobile
 
 ## 👥 Audience
 
