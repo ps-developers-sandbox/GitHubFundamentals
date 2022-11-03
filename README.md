@@ -86,6 +86,11 @@ Try commands like:
 - [ ]  `New gist` 
 - [ ]  `New repository`
 
+### 👤 User profile
+
+<img width="635" alt="image" src="https://user-images.githubusercontent.com/5276337/199670576-81ec4c53-6be9-447a-aaf5-f22d1deb3f4f.png">
+
+
 ## 👥 Audience
 
 This training is for all other roles involved in product development besides developers - like `product owners`, `designers`, or any other type of `stakeholder`. The audience can also contain people completely new to engineering. That's why we try not to use the command-line and do everything in visual tools. The focus of this training are the collaboration features and how to use them effectively.
