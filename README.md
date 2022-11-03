@@ -88,13 +88,25 @@ Try commands like:
 
 ### 👤 User profile
 
+The user profile is the starting point for all personal owned repositories, projects, and packages.
+It can be customized:
+
+- [ ] Profile pic, name, and bio
+- [ ] Metadata (location, twitter handle, url, company)
+- [ ] You can add a readme by creating a repositoriy with the same name as your user name and adding a `Readme.md` there
+- [ ] You can pin repositories to the user profile 
+
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/5276337/199670576-81ec4c53-6be9-447a-aaf5-f22d1deb3f4f.png">
 
 ### 🌟 Stars
 
+Starring a repository is not only an endorsement. You can use stars in star lists to organize repositories that are important. Like favorites in your browser. 
+
 <img width="546" alt="image" src="https://user-images.githubusercontent.com/5276337/199671174-a304637b-1fb5-46ef-b987-8b8af3d45ff1.png">
 
-### Contributions
+### 🏆 Contributions
+
+You can also see all your contributions that happend on GitHub.
 
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/5276337/199671371-81930feb-3f2b-441a-bd9f-47d4f9617efe.png">
 
