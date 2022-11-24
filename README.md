@@ -112,7 +112,13 @@ You can also see all your contributions that happend on GitHub.
 
 ### 📣 Notifications
 
-### 🚶GitHub Mobile
+### 📱 GitHub Mobile
+
+### 📖 Markdown
+
+## 💬 Discussions
+
+Create [a new discussion](/../../discussions/new):
 
 ## 👥 Audience
 
