@@ -38,8 +38,9 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 Navigate to github.com and inspect the menus and the feed. Note the the `For You` feed can be customized by clicking `show less activity like that` in the menu of the items.
 
-<img width="655" alt="image" src="https://user-images.githubusercontent.com/5276337/199487145-4dce52c9-5a33-4f5a-8bb3-b2ff9c91bb58.png">
+<!-- markdownlint-disable MD001 MD033 -->
 
+<img width="655" alt="image" src="https://user-images.githubusercontent.com/5276337/199487145-4dce52c9-5a33-4f5a-8bb3-b2ff9c91bb58.png">
 
 ### ⌨️ Keyboard shortcusts
 
@@ -82,8 +83,9 @@ Press the following keyboard shortcuts to [open the command palette in command m
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/5276337/199553436-9bc15185-ffd1-4a5c-bdd6-aac63980f516.png">
 
 Try commands like:
-- [ ]  `Switch theme` 
-- [ ]  `New gist` 
+
+- [ ]  `Switch theme`
+- [ ]  `New gist`
 - [ ]  `New repository`
 
 ### 👤 User profile
@@ -94,13 +96,13 @@ It can be customized:
 - [ ] Profile pic, name, and bio
 - [ ] Metadata (location, twitter handle, url, company)
 - [ ] You can add a readme by creating a repositoriy with the same name as your user name and adding a `Readme.md` there
-- [ ] You can pin repositories to the user profile 
+- [ ] You can pin repositories to the user profile
 
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/5276337/199670576-81ec4c53-6be9-447a-aaf5-f22d1deb3f4f.png">
 
 ### 🌟 Stars
 
-Starring a repository is not only an endorsement. You can use stars in star lists to organize repositories that are important. Like favorites in your browser. 
+Starring a repository is not only an endorsement. You can use stars in star lists to organize repositories that are important. Like favorites in your browser.
 
 <img width="546" alt="image" src="https://user-images.githubusercontent.com/5276337/199671174-a304637b-1fb5-46ef-b987-8b8af3d45ff1.png">
 
