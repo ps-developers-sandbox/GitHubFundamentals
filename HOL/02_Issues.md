@@ -81,3 +81,5 @@ A clear and concise description of what the bug is.
 ## Summary
 
 In this hands-on lab you've practiced to work with nested Issues, Labels, Milestones, and Issue Templates. 
+
+You can now continue with [GitHub Projects](..01_02_Collaborate-on-ideas.md#-github-projects)
