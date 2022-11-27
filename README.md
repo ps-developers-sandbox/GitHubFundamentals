@@ -42,7 +42,7 @@ For this workshop you need the following:
 - [ ] [GitHub Discussions](#-discussions)
 - [ ] [Wikis and Pages](#%EF%B8%8F-wikis-and--pages)
 - [ ] [GitHub Issues](#%EF%B8%8F-github-issues)
-- [ ] GitHub Projects
+- [ ] [GitHub Projects](#-github-projects)
 
 ## 🧭 Navigating GitHub
 
@@ -255,3 +255,4 @@ A clear and concise description of what the bug is.
 
 - __Optional:__ Only if time permits: create a custom issue template. See [this template](https://github.com/wulfland/AccelerateDevOps/blob/main/.github/ISSUE_TEMPLATE/custom.yml) as an example. Also configure that blank issues are not allowed and add an additional URL to the `New issue` dialog ([this example](https://github.com/wulfland/AccelerateDevOps/blob/main/.github/ISSUE_TEMPLATE/config.yml) should help you getting started).
 
+## 📆 GitHub Projects
