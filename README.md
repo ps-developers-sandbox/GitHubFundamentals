@@ -41,7 +41,7 @@ For this workshop you need the following:
 
 - [ ] [GitHub Discussions](#-discussions)
 - [ ] [Wikis and Pages](#%EF%B8%8F-wikis-and--pages)
-- [ ] GitHub Issues
+- [ ] [GitHub Issues](#%EF%B8%8F-github-issues)
 - [ ] GitHub Projects
 
 ## 🧭 Navigating GitHub
@@ -174,3 +174,4 @@ GitHub pages is a static webpage that can diplay files from the repository as a 
 
 It can use [Jekyll](https://jekyllrb.com/) to render markdown files as web pages. See [this example](https://github.com/wulfland/AccelerateDevOps/tree/main/docs) that gets rendered as [this web site](https://wulfland.github.io/AccelerateDevOps/).
 
+## ✍️ GitHub Issues
