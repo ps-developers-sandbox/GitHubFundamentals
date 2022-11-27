@@ -114,6 +114,14 @@ You can also see all your contributions that happend on GitHub.
 
 ### 📣 Notifications
 
+Manage your notifications in [:bell:](https://github.com/notifications):
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204130941-20e8725b-a158-4c3d-938a-d18599926d2d.png">
+
+- Configure notifications settings and routing in [settings/notifications](https://github.com/settings/notifications)
+- Manage [watched repositories](https://github.com/watching)
+- Manage [your subscriptions](https://github.com/notifications/subscriptions)
+
 ### 📱 GitHub Mobile
 
 ### 📖 Markdown
