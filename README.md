@@ -39,10 +39,10 @@ For this workshop you need the following:
 
 ### Part 1.2: 🗒️ Collaborate on ideas
 
-- [ ] [GitHub Discussions](#-discussions)
-- [ ] [Wikis and Pages](#%EF%B8%8F-wikis-and--pages)
-- [ ] [GitHub Issues](#%EF%B8%8F-github-issues)
-- [ ] [GitHub Projects](#-github-projects)
+- [ ] [GitHub Discussions](01_02_Collaborate-on-ideas.md#-discussions)
+- [ ] [Wikis and Pages](01_02_Collaborate-on-ideas.md#%EF%B8%8F-wikis-and--pages)
+- [ ] [GitHub Issues](01_02_Collaborate-on-ideas.md#%EF%B8%8F-github-issues)
+- [ ] [GitHub Projects](01_02_Collaborate-on-ideas.md#-github-projects)
 
 ## 🧭 Navigating GitHub
 
