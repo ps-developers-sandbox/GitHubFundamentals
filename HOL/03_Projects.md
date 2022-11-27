@@ -80,3 +80,5 @@ In this hands-on lab you will learn how to work with GitHub Projects. The module
 ## Summary 
 
 In this hands-on lab you've learned how to work with GitHub Projects.
+
+You can now go back to [Collaborate on ideas](../01_02_Collaborate-on-ideas.md#summary).
