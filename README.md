@@ -256,3 +256,51 @@ A clear and concise description of what the bug is.
 - __Optional:__ Only if time permits: create a custom issue template. See [this template](https://github.com/wulfland/AccelerateDevOps/blob/main/.github/ISSUE_TEMPLATE/custom.yml) as an example. Also configure that blank issues are not allowed and add an additional URL to the `New issue` dialog ([this example](https://github.com/wulfland/AccelerateDevOps/blob/main/.github/ISSUE_TEMPLATE/config.yml) should help you getting started).
 
 ## 📆 GitHub Projects
+
+See this example [Team backlog](https://github.com/users/wulfland/projects/9/views/1) as an example.
+
+### 🔨 Hands-on: Working with GitHub Projects
+
+- [ ] Create a new project:
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204151147-dae0f9e9-3b11-4947-88a8-a931ab7a95d7.png">
+
+- [ ] Select `Table` and click `Create`:
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204151235-d15fbaa5-bd84-4fb9-957e-d88d57bf4625.png">
+
+- [ ] Rename the project to `🏆  Team backlog`
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204151296-59f56a27-9126-4551-85e6-1f11bfb15fc0.png">
+
+- [ ] Click the <kbd>#</kbd> key and select the repository. Add all your issues to the board:
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204151419-0f496f97-5814-4cc8-9d67-4f25b392702b.png">
+
+- [ ] Add the default fields `Labels` and `Milestones`:
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204151519-070cad7c-a617-4332-b7b1-62a2c4c90e5d.png">
+
+- [ ] Edit the values for Status and add an icon:
+  - [ ] Todo ✍️
+  - [ ] In Progress 🚧
+  - [ ] Done  ✅
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/5276337/204151656-e01a3da6-146b-4fca-85e9-f6daf95fcbff.png">
+
+- [ ] Set all items to `Todo ✍️`
+- [ ] Add a new field:
+
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/5276337/204151821-e444b02b-1123-4e8b-9735-073b5766eca1.png">
+
+- [ ] Add a field `Level` with the type `Single Select` and add backlog levels:
+  - [ ] Epic 🚀
+  - [ ] Feature 🔥
+  - [ ] Story 🗣
+  - [ ] Task 🔨 
+
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/5276337/204151877-19ed7d69-355c-403c-8f76-00a87818a532.png">
+
+
+
+
