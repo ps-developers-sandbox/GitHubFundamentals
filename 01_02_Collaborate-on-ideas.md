@@ -47,6 +47,9 @@ See [this issue](https://github.com/wulfland/AccelerateDevOps/issues/436) for mo
 
 See this example [Team backlog](https://github.com/users/wulfland/projects/9/views/1) as an example.
 
+<img width="638" alt="image" src="https://user-images.githubusercontent.com/5276337/204155520-fb40c130-75f1-4044-8e91-04b64debb7aa.png">
+
+
 ### 🔨 Hands-on: [Working with GitHub Projects](HOL/03_Projects.md)
 
 ## Summary
