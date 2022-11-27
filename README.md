@@ -148,7 +148,7 @@ Explore the posibilities of [GitHub-flavored markdown](https://docs.github.com/e
 
 ## 💬 Discussions
 
-### 🔨 Hands-on: Working with Discussions
+### 🔨 Hands-on: Using with GitHub Discussions
 
 Create [new discussions](/../../discussions/new):
 - [ ] Ask the others something (about their hobbies, favorit food, favorit GitHub features so far, and so on) 
@@ -190,3 +190,10 @@ See [this issue](https://github.com/wulfland/AccelerateDevOps/issues/436) for mo
 
 ### 🔨 Hands-on: working with Issues
 
+- [ ] Create a [new issue](../../issues/new) called `🏆 Awesome and epic initiative from [username]` (replace [username] with your GitHub user name).
+- [ ] Assign the issue to yourself
+- [ ] Apply a label `Epic` to the issue (create the label if it does not exist yet
+- [ ] Add a task list with three tasks to the description of the epic
+  - [ ] `🎸 A feature from [username] that rocks`
+  - [ ] `⚡ Another epic feature from [username]`
+  - [ ] `🔥 Hot feature from [username]`
