@@ -4,13 +4,6 @@
 - [ ] [Mobile and Profile](#-mobile-and--profile)
 - [ ] GitHub-flavored [markdown](#-markdown)
 
-### Part 1.2: 🗒️ Collaborate on ideas
-
-- [ ] [GitHub Discussions](#-discussions)
-- [ ] [Wikis and Pages](#%EF%B8%8F-wikis-and--pages)
-- [ ] [GitHub Issues](#%EF%B8%8F-github-issues)
-- [ ] [GitHub Projects](#-github-projects)
-
 ## 🧭 Navigating GitHub
 
 ### 🏠 GitHub
