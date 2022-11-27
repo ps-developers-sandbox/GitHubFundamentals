@@ -15,7 +15,19 @@ Repository for the `GitHub Fundamentals` training.
 
 ## Getting ready
 
-Please follow [these instructions](GettingReady.md) and make sure you have set up everything correctly following the [prerequisites](#-prerequisites).
+Please check the [prerequisites](#-prerequisites) so that you have everything prepared.
+
+## 👥 Audience
+
+This training is for all other roles involved in product development besides developers - like `product owners`, `designers`, or any other type of `stakeholder`. The audience can also contain people completely new to engineering. That's why we try not to use the command-line and do everything in visual tools. The focus of this training are the collaboration features and how to use them effectively.
+
+## ⚡ Prerequisites
+
+For this workshop you need the following:
+
+- A laptop (Windows, Mac, or Linux)
+- A free account for [https://github.com](https://github.com/signup)
+- It is recommended to have a second screen for the hand-on labs
 
 ## 📆 Agenda
 
@@ -144,14 +156,4 @@ Create [new discussions](/../../discussions/new):
 > **Note**  
 > Use markdown to express yourself. Use as many markdown features as possible.
 
-## 👥 Audience
 
-This training is for all other roles involved in product development besides developers - like `product owners`, `designers`, or any other type of `stakeholder`. The audience can also contain people completely new to engineering. That's why we try not to use the command-line and do everything in visual tools. The focus of this training are the collaboration features and how to use them effectively.
-
-## ⚡ Prerequisites
-
-For this workshop you need the following:
-
-- A laptop (Windows, Mac, or Linux)
-- A free account for [https://github.com](https://github.com/signup)
-- It is recommended to have a second screen for the hand-on labs
