@@ -1,5 +1,7 @@
 # Part 1.1: 🚀 GitHub Fundamentals
 
+In this part you will learn how to navigate GitHub, use keyboard shorcuts and search, and you'll learn about GitHub Mobile and Markdown. This part contains the following sections:
+
 - [ ] [Navigating GitHub](#-navigating-github)
 - [ ] [Mobile and Profile](#-mobile-and--profile)
 - [ ] GitHub-flavored [markdown](#-markdown)
@@ -105,3 +107,7 @@ Manage your notifications in [:bell:](https://github.com/notifications):
 ## 📖 Markdown
 
 Explore the posibilities of [GitHub-flavored markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). You can find many examples [here](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md?plain=1) and [how they get rendered](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md)
+
+## Summary
+
+In this part you've learned how to navigate GitHub, use keyboard shorcuts and search, and you've learned about GitHub Mobile and Markdown. You can now continue with [Part 1.2 - Collaborate on ideas](01_02_Collaborate-on-ideas.md).
