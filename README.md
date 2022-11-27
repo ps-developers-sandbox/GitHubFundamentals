@@ -201,10 +201,19 @@ See [this issue](https://github.com/wulfland/AccelerateDevOps/issues/436) for mo
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204148043-9e269c5c-16fd-46dd-9b3e-387652261338.png">
 
-- [ ] Open the issues, assign them to yourself and apply the label `Feature` (create the label if it does not exist yet)
+- [ ] Open the issues, assign them to yourself, and apply the label `Feature` (create the label if it does not exist yet)
 - [ ] Select one of the issues and open it. Add again three tasks and convert them to new issues:
   - [ ] `👥 User Story from [username]`
-  - [ ] `❤️ :heart: Things users ❤️ from [username]`
+  - [ ] `❤️ Things users ❤️ from [username]`
   - [ ] `💯 Crazy feature from [username]`
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204149026-7e3ae375-fab2-4ef8-a950-1b497258e58b.png">
+
+ - [ ] Open the created issues, assign them to yourself, and apply the label `User Story` (create the label if it does not exist yet)
+ - [ ] Close one of the issues and note the indicators that allwo you to navigate between the issues. 
+
+<img width="1222" alt="image" src="https://user-images.githubusercontent.com/5276337/204149146-6f76cbef-df1d-4d89-8f75-8dc49dc3d9a6.png">
+
+
 
 
