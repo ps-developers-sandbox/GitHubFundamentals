@@ -1,5 +1,7 @@
 # Part 1.2: 🗒️ Collaborate on ideas
 
+In this part you will learn and practice how to collaborate on Ideas. The part contains the following topics:  
+
 - [ ] [GitHub Discussions](#-discussions)
 - [ ] [Wikis and Pages](#%EF%B8%8F-wikis-and--pages)
 - [ ] [GitHub Issues](#%EF%B8%8F-github-issues)
@@ -183,3 +185,7 @@ See this example [Team backlog](https://github.com/users/wulfland/projects/9/vie
 - __Optional:__ Only if time permits: Create a new chart and customize lyout, x-axis, group by, and y-axis. 
 - __Optional:__ Only if time permits: View the workflows and enable all workflows that you want
 - __Optional:__ Add a draft Issue to the backlog and edit the values. Convert it to a real issue.
+
+## Summary
+
+In this part you've learn and practiced how to collaborate on ideas using GitHub Issues, Discussion, Wikis, Pages and Projects.
