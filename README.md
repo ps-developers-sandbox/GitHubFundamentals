@@ -39,7 +39,7 @@ For this workshop you need the following:
 
 ### Part 1.2: 🗒️ Collaborate on ideas
 
-- [ ] GitHub Discussions
+- [ ] [GitHub Discussions](#-discussions)
 - [ ] Wikis and Pages
 - [ ] GitHub Issues
 - [ ] GitHub Projects
