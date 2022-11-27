@@ -192,8 +192,19 @@ See [this issue](https://github.com/wulfland/AccelerateDevOps/issues/436) for mo
 
 - [ ] Create a [new issue](../../issues/new) called `🏆 Awesome and epic initiative from [username]` (replace [username] with your GitHub user name).
 - [ ] Assign the issue to yourself
-- [ ] Apply a label `Epic` to the issue (create the label if it does not exist yet
+- [ ] Apply a label `Epic` to the issue (create the label if it does not exist yet)
 - [ ] Add a task list with three tasks to the description of the epic
   - [ ] `🎸 A feature from [username] that rocks`
   - [ ] `⚡ Another epic feature from [username]`
   - [ ] `🔥 Hot feature from [username]`
+- [ ] Convert the tasks to issues
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204148043-9e269c5c-16fd-46dd-9b3e-387652261338.png">
+
+- [ ] Open the issues, assign them to yourself and apply the label `Feature` (create the label if it does not exist yet)
+- [ ] Select one of the issues and open it. Add again three tasks and convert them to new issues:
+  - [ ] `👥 User Story from [username]`
+  - [ ] `❤️ Things users ❤️ from [username]`
+  - [ ] `💯 Crazy feature from [username]`
+
+
