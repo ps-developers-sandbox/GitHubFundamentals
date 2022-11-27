@@ -35,7 +35,7 @@ For this workshop you need the following:
 
 - [ ] [Navigating GitHub](#-navigating-github)
 - [ ] [Mobile and Profile](#-mobile-and--profile)
-- [ ] GitHub-flavored [markdown](#markdown)
+- [ ] GitHub-flavored [markdown](#-markdown)
 
 ### Part 1.2: 🗒️ Collaborate on ideas
 
