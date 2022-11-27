@@ -40,7 +40,7 @@ For this workshop you need the following:
 ### Part 1.2: 🗒️ Collaborate on ideas
 
 - [ ] [GitHub Discussions](#-discussions)
-- [ ] Wikis and Pages
+- [ ] [Wikis and Pages](#-wikis-and--pages)
 - [ ] GitHub Issues
 - [ ] GitHub Projects
 
@@ -158,4 +158,5 @@ Create [new discussions](/../../discussions/new):
 > **Note**  
 > Use markdown to express yourself. Use as many markdown features as possible.
 
+## 🗒️ Wikis and 🌐 Pages
 
