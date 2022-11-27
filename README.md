@@ -130,6 +130,8 @@ Manage your notifications in [:bell:](https://github.com/notifications):
 
 ### 📖 Markdown
 
+Explore the posibilities of GitHub-flavored markdown. You can find many examples [here](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md?plain=1) and [how they get rendered](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md)
+
 ## 💬 Discussions
 
 Create [a new discussion](/../../discussions/new):
