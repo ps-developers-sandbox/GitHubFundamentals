@@ -160,3 +160,17 @@ Create [new discussions](/../../discussions/new):
 
 ## 🗒️ Wikis and 🌐 Pages
 
+GitHub contains a wiki in each repository (see [this example](https://github.com/wulfland/AccelerateDevOps/wiki)). The wiki has a custom header and footer.
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204132297-8fea2ca1-53e9-43a1-8aff-267fb30d12fc.png">
+
+The wiki supports many different renderers - not only markdown.
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/5276337/204132252-40a5f7b8-cb3a-4b28-b858-7b7cd8426ecd.png">
+
+GitHub pages is a static webpage that can diplay files from the repository as a rendered web page. 
+
+<img width="396" alt="image" src="https://user-images.githubusercontent.com/5276337/204132589-72544d3e-b291-4cef-a03e-502058bc750c.png">
+
+It can use [Jekyll](https://jekyllrb.com/) to render markdown files as web pages. See [this example](https://github.com/wulfland/AccelerateDevOps/tree/main/docs) that gets rendered as [this web site](https://wulfland.github.io/AccelerateDevOps/).
+
