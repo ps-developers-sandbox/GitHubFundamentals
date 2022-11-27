@@ -204,7 +204,7 @@ See [this issue](https://github.com/wulfland/AccelerateDevOps/issues/436) for mo
 - [ ] Open the issues, assign them to yourself and apply the label `Feature` (create the label if it does not exist yet)
 - [ ] Select one of the issues and open it. Add again three tasks and convert them to new issues:
   - [ ] `👥 User Story from [username]`
-  - [ ] `:heart: Things users ❤️ from [username]`
+  - [ ] `❤️ :heart: Things users ❤️ from [username]`
   - [ ] `💯 Crazy feature from [username]`
 
 
