@@ -22,4 +22,4 @@ Create [new discussions](/../../discussions/new):
 
 In this hands-on lab you've practiced to collaborate with other team members using GitHub Discussions.
 
-You can now continue with [Wikis and Pages](01_02_Collaborate-on-ideas.md#%EF%B8%8F-wikis-and--pages).
+You can now continue with [Wikis and Pages](../01_02_Collaborate-on-ideas.md#%EF%B8%8F-wikis-and--pages).
