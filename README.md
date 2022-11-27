@@ -148,6 +148,8 @@ Explore the posibilities of [GitHub-flavored markdown](https://docs.github.com/e
 
 ## 💬 Discussions
 
+### 🔨 Hands-on: Working with Discussions
+
 Create [new discussions](/../../discussions/new):
 - [ ] Ask the others something (about their hobbies, favorit food, favorit GitHub features so far, and so on) 
 - [ ] Look for other questions and provide an answer
@@ -175,3 +177,16 @@ GitHub pages is a static webpage that can diplay files from the repository as a 
 It can use [Jekyll](https://jekyllrb.com/) to render markdown files as web pages. See [this example](https://github.com/wulfland/AccelerateDevOps/tree/main/docs) that gets rendered as [this web site](https://wulfland.github.io/AccelerateDevOps/).
 
 ## ✍️ GitHub Issues
+
+- [ ] Pinnes Issues, sort, filter and lables
+
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/5276337/204133374-7b3e0ef4-24a1-4002-8a9b-f613d33ddd95.png">
+
+See [this issue](https://github.com/wulfland/AccelerateDevOps/issues/436) for more details.
+
+- [ ] Issue templates
+- [ ] Nesting Issues
+- [ ] Lables and Milestones
+
+### 🔨 Hands-on: working with Issues
+
