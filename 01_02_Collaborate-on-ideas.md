@@ -11,17 +11,7 @@ In this part you will learn and practice how to collaborate on Ideas. The part c
 
 <img width="423" alt="image" src="https://user-images.githubusercontent.com/5276337/204153901-5d22c9af-0fa8-4236-b4d4-6d3185d1ce08.png">
 
-### 🔨 Hands-on: Using with GitHub Discussions
-
-Create [new discussions](/../../discussions/new):
-- [ ] Ask the others something (about their hobbies, favorit food, favorit GitHub features so far, and so on) 
-- [ ] Look for other questions and provide an answer
-- [ ] Mark your question as answered with the answer you like the most
-- [ ] Create a poll and ask people to vote for one of your favorite movies
-- [ ] Look for other polls and respond to them
-
-> **Note**  
-> Use markdown to express yourself. Use as many markdown features as possible.
+### 🔨 Hands-on: [Using with GitHub Discussions](https://github.com/ps-developers-sandbox/GitHubFundamentals/blob/main/HOL/01_Discussions.md)
 
 ## 🗒️ Wikis and 🌐 Pages
 
