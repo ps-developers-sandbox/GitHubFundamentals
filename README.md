@@ -130,11 +130,19 @@ Manage your notifications in [:bell:](https://github.com/notifications):
 
 ### 📖 Markdown
 
-Explore the posibilities of GitHub-flavored markdown. You can find many examples [here](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md?plain=1) and [how they get rendered](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md)
+Explore the posibilities of [GitHub-flavored markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). You can find many examples [here](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md?plain=1) and [how they get rendered](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md)
 
 ## 💬 Discussions
 
-Create [a new discussion](/../../discussions/new):
+Create [new discussions](/../../discussions/new):
+- [ ] Ask the others something (about their hobbies, favorit food, favorit GitHub features so far, and so on) 
+- [ ] Look for other questions and provide an answer
+- [ ] Mark your question as answered with the answer you like the most
+- [ ] Create a poll and ask people to vote for one of your favorite movies
+- [ ] Look for other polls and respond to them
+
+> **Note**  
+> Use markdown to express yourself. Use as many markdown features as possible.
 
 ## 👥 Audience
 
