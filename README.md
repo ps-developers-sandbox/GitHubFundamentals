@@ -34,8 +34,8 @@ For this workshop you need the following:
 ### Part 1.1: 🚀 GitHub Fundamentals
 
 - [ ] [Navigating GitHub](#-navigating-github)
-- [ ] Mobile and Profile
-- [ ] GitHub-flavored markdown
+- [ ] [Mobile and Profile](#-mobile-and--profile)
+- [ ] GitHub-flavored [markdown](#markdown)
 
 ### Part 1.2: 🗒️ Collaborate on ideas
 
@@ -100,6 +100,8 @@ Try commands like:
 - [ ]  `New gist`
 - [ ]  `New repository`
 
+## 📱 Mobile and 👤 Profile
+
 ### 👤 User profile
 
 The user profile is the starting point for all personal owned repositories, projects, and packages.
@@ -140,7 +142,7 @@ Manage your notifications in [:bell:](https://github.com/notifications):
 
 <img width="501" alt="image" src="https://user-images.githubusercontent.com/5276337/204131228-2a4ba5d0-d5ca-49ee-a9aa-487ab5bbe5a5.png">
 
-### 📖 Markdown
+## 📖 Markdown
 
 Explore the posibilities of [GitHub-flavored markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). You can find many examples [here](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md?plain=1) and [how they get rendered](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md)
 
