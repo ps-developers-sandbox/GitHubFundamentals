@@ -33,9 +33,9 @@ For this workshop you need the following:
 
 ### Part 1.1: 🚀 GitHub Fundamentals
 
-- [ ] [Navigating GitHub](#-navigating-github)
-- [ ] [Mobile and Profile](#-mobile-and--profile)
-- [ ] GitHub-flavored [markdown](#-markdown)
+- [ ] [Navigating GitHub](01_01_GitHub-Fundamentals.md#-navigating-github)
+- [ ] [Mobile and Profile](01_01_GitHub-Fundamentals.md#-mobile-and--profile)
+- [ ] GitHub-flavored [markdown](01_01_GitHub-Fundamentals.md#-markdown)
 
 ### Part 1.2: 🗒️ Collaborate on ideas
 
