@@ -40,7 +40,7 @@ For this workshop you need the following:
 ### Part 1.2: 🗒️ Collaborate on ideas
 
 - [ ] [GitHub Discussions](#-discussions)
-- [ ] [Wikis and Pages](#-wikis-and--pages)
+- [ ] [Wikis and Pages](#%EF%B8%8F-wikis-and--pages)
 - [ ] GitHub Issues
 - [ ] GitHub Projects
 
