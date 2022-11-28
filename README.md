@@ -44,3 +44,12 @@ For this workshop you need the following:
 - [ ] [GitHub Issues](01_02_Collaborate-on-ideas.md#%EF%B8%8F-github-issues)
 - [ ] [GitHub Projects](01_02_Collaborate-on-ideas.md#-github-projects)
 
+### Part 2: 🤝 Collaborate on code
+
+- [ ] Branching strategies and git workflows like GitHub flow
+    - [Git flow](https://nvie.com/posts/a-successful-git-branching-model/)
+    - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+    - [MyFlow](https://writeabout.net/2021/12/21/myflow-a-successful-git-branching-model-for-devops-teams/)
+- [ ] [Code owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) and [branch protection](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) (demo)
+- [ ] 🔨 Hands-on: [Collaborate on code](hol/03-Collaborate-on-code.md)
+- [ ] 🔨 Hands-on: [Review code](hol/04-Review-code.md)
