@@ -53,4 +53,5 @@ For this workshop you need the following:
 - [ ] [Code owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) and [branch protection](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) (demo)
 - [ ] 🔨 Hands-on: [Proposing changes](HOL/04_Proposing-Changes.md)
 - [ ] 🔨 Hands-on: [Making suggestions](HOL/05_Making-suggestions.md)
+- [ ] 🔨 Hands-on: [Applying suggestions](HOL/06_Applying-suggestions.md)
 
