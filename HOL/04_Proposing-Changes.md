@@ -60,4 +60,4 @@ Greetings from [username]!
 
 In this hands-on lab you've learned how to propose changes with pull request. 
 
-Please continue with [Making suggestions](05_Making-Suggestions.md)
+Please continue with [Making suggestions](05_Making-suggestions.md).
