@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+set -e
+
+# Initialize and update the submodule
+git submodule update --init
+
+# Run the Jekyll site locally
+bundle exec jekyll serve
