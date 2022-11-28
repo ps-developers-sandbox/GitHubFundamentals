@@ -17,8 +17,8 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       spotify
-author:      GitHubTeacher
+title:       GitHubFundamentals
+author:      @wulfland
 description: A fun activity for learning Git and GitHub.
 
 sass:
