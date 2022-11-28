@@ -5,6 +5,7 @@ The exercise consists of the following parts:
 - [Editing in GitHub](#editing-in-github)
 - [Branches](#branches)
 - [Creating a pull request](#creating-a-pull-request)
+- [Mention your partner](#mention-your-partner)
 
 
 ## Editing in GitHub
@@ -47,6 +48,12 @@ Greetings from [username]!
 - [ ] Create a `draft` pull request. Note that the base branch is main and your `HEAD` branch the newly created branch. Assign the pull request to yourself.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204308549-f35ac578-e242-49d8-8225-733553d53340.png">
+
+## Mention your partner
+
+- [ ] Navigate to `Files changed` and add a comment to line 6. Mention your partner (`@username`) in a comment (get your partner from issue #1) and click `Add single comment`.
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204311866-eb4eeba6-6de5-4be0-9872-c51bf6cd6773.png">
 
 
 ## Summary
