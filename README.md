@@ -54,4 +54,5 @@ For this workshop you need the following:
 - [ ] 🔨 Hands-on: [Proposing changes](HOL/04_Proposing-Changes.md)
 - [ ] 🔨 Hands-on: [Making suggestions](HOL/05_Making-suggestions.md)
 - [ ] 🔨 Hands-on: [Applying suggestions](HOL/06_Applying-suggestions.md)
+- [ ] 🔨 Hands-on: [Code reviews](HOL/07_Code-reviews.md)
 
