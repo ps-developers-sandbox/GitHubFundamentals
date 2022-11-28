@@ -9,7 +9,7 @@ The lab contains the following sections:
 
 ## Creating Issues
 
-- [ ] Create a [new issue](../../issues/new) called `🏆 Awesome and epic initiative from [username]` (replace [username] with your GitHub user name).
+- [ ] Create a [new issue](../../../issues/new) called `🏆 Awesome and epic initiative from [username]` (replace [username] with your GitHub user name).
 - [ ] Assign the issue to yourself
 - [ ] Apply a label `Epic` to the issue (create the label if it does not exist yet)
 - [ ] Add a task list with three tasks to the description of the epic
