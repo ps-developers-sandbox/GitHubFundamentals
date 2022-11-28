@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Greetings from wulfland!
+Greetings from @wulfland and @kaufm!
 
-![dinotocat](https://octodex.github.com/images/dinotocat.png)
+![Daftpunktocat-Thomas](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 {: .center}
