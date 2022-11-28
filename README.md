@@ -51,5 +51,6 @@ For this workshop you need the following:
     - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
     - [MyFlow](https://writeabout.net/2021/12/21/myflow-a-successful-git-branching-model-for-devops-teams/)
 - [ ] [Code owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) and [branch protection](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) (demo)
-- [ ] 🔨 Hands-on: [Collaborate on code](hol/03-Collaborate-on-code.md)
-- [ ] 🔨 Hands-on: [Review code](hol/04-Review-code.md)
+- [ ] 🔨 Hands-on: [Proposing changes](HOL/04_Proposing-Changes.md)
+- [ ] 🔨 Hands-on: [Making suggestions](HOL/05_Making-suggestions.md)
+
