@@ -18,7 +18,7 @@ plugins:
 
 ## personalize your slide show
 title:       GitHubFundamentals
-author:      @wulfland
+author:      wulfland
 description: A fun activity for learning Git and GitHub.
 
 sass:
