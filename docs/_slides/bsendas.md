@@ -7,5 +7,5 @@ Add a text here to caption the image. Pick an image from [Octodex](https://octod
 
 Just a cat putting a fire down... nothing to see
 
-![sentrytocat](https://octodex.github.com/sentrytocat/)
+![sentrytocat](https://octodex.github.com/images/Sentrytocat_octodex.jpg)
 {: .center}
