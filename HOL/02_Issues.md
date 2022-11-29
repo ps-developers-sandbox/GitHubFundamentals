@@ -26,6 +26,9 @@ The lab contains the following sections:
   - [ ] `❤️ Things users ❤️ from [username]`
   - [ ] `💯 Crazy feature from [username]`
 
+> **Note**  
+> Note that the task list of nested issues has to be in the description - not a comment. Edit the first entry in the Issue instead of adding a new comment.
+
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204149026-7e3ae375-fab2-4ef8-a950-1b497258e58b.png">
 
  - [ ] Open the created issues, assign them to yourself, and apply the label `User Story` (create the label if it does not exist yet)
