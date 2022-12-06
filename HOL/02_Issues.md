@@ -38,7 +38,7 @@ The lab contains the following sections:
 
 ## Milestones
 
-- [ ] Create [a new milestone](../../milestones/new) `Backlog [username]` without due date and add all your user stories 
+- [ ] Create [a new milestone](../../../milestones/new) `Backlog [username]` without due date and add all your user stories 
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204149627-5d22f3aa-b164-445e-b35f-9d6d0884abe4.png">
 
