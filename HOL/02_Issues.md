@@ -48,7 +48,7 @@ The lab contains the following sections:
 
 ## Issue templates
 
-- [ ] Create [a new issue template](../../issues/templates/edit) and choose bug report or just create a [new file](../../new/main) `.github/ISSUE_TEMPLATE/bug_report_[username].md` (replace [username] with your GitHub user name)
+- [ ] Create [a new issue template](../../../issues/templates/edit) and choose bug report or just create a [new file](../../new/main) `.github/ISSUE_TEMPLATE/bug_report_[username].md` (replace [username] with your GitHub user name)
 - [ ] Open the file or `preview and edit`and make sure the filename contains your user name.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204149991-f2f0d8ea-0d2c-4fc1-838b-34e3cbaa787e.png">
@@ -71,7 +71,7 @@ A clear and concise description of what the bug is.
 ...
 ```
 
-- [ ] Create [a new issue](../../issues/new/choose) and chose your template:
+- [ ] Create [a new issue](../../../issues/new/choose) and chose your template:
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204150390-cc792022-5723-4af6-800d-826290269f5d.png">
 
