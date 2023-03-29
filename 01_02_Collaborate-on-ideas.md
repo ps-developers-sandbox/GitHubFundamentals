@@ -19,7 +19,7 @@ GitHub contains a wiki in each repository (see [this example](https://github.com
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204132297-8fea2ca1-53e9-43a1-8aff-267fb30d12fc.png">
 
-The wiki supports many different renderers - not only markdown.
+The wiki supports many different renderers - not only Markdown.
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/5276337/204132252-40a5f7b8-cb3a-4b28-b858-7b7cd8426ecd.png">
 
