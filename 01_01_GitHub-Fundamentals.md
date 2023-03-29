@@ -106,7 +106,7 @@ Manage your notifications in [:bell:](https://github.com/notifications):
 
 ## 📖 Markdown
 
-Explore the possibilities of [GitHub-flavored markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). You can find many examples [here](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md?plain=1) and [how they get rendered](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md)
+Explore the possibilities of [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). You can find many examples [here](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md?plain=1) and [how they get rendered](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md)
 
 ## Summary
 
