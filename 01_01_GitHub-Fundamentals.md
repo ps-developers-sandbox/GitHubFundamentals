@@ -1,6 +1,6 @@
 # Part 1.1: 🚀 GitHub Fundamentals
 
-In this part you will learn how to navigate GitHub, use keyboard shorcuts and search, and you'll learn about GitHub Mobile and Markdown. This part contains the following sections:
+In this part you will learn how to navigate GitHub, use keyboard shortcuts and search, and you'll learn about GitHub Mobile and Markdown. This part contains the following sections:
 
 - [ ] [Navigating GitHub](#-navigating-github)
 - [ ] [Mobile and Profile](#-mobile-and--profile)
@@ -24,8 +24,8 @@ Press <kbd>?</kbd> everywhere in GitHub to get context-sensitive list of [keyboa
 
 Try some. Here is a list you should at least try out:
 
-- [ ] Press <kbd>.</kbd> to open the current repository in [github.dev](https://github.dev/) (Visual Studio Code in the browser) or <kbd>></kbd> to open it in a new tab.
-- [ ] Press <kbd>s</kbd> or <kbd>/</kbd> to start a search.
+- [ ] Press <kbd>.</kbd> to open the current repository in [github.dev](https://github.dev/) (Visual Studio Code in the browser) or <kbd>></kbd> to open it in a new tab
+- [ ] Press <kbd>s</kbd> or <kbd>/</kbd> to start a search
 - [ ] Press <kbd>g</kbd>+<kbd>n</kbd> to go to the notifications
 
 ### 🔍 Command palette
@@ -106,7 +106,7 @@ Manage your notifications in [:bell:](https://github.com/notifications):
 
 ## 📖 Markdown
 
-Explore the posibilities of [GitHub-flavored markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). You can find many examples [here](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md?plain=1) and [how they get rendered](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md)
+Explore the possibilities of [GitHub-flavored markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). You can find many examples [here](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md?plain=1) and [how they get rendered](https://github.com/wulfland/AccelerateDevOps/blob/main/docs/about-markdown.md)
 
 ## Summary
 
