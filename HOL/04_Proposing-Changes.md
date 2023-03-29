@@ -1,7 +1,7 @@
 # 🔨 Hands-on: Proposing changes
 
 In this hands-on lab you will learn how to propose changes to files using using pull-requests. 
-The exercise consists of the following parts:
+This exercise consists of the following parts:
 - [Editing in GitHub](#editing-in-github)
 - [Branches](#branches)
 - [Creating a pull request](#creating-a-pull-request)
@@ -10,7 +10,7 @@ The exercise consists of the following parts:
 
 ## Editing in GitHub
 
-GitHub has a built-in editor that allow you to edit files inline. Use the editor to create a new file.
+GitHub has a built-in editor that allows you to edit files inline. Use the editor to create a new file.
 
 - [ ] Create a [new file](../../../new/main) `docs/_slides/[username].md` (Just paste the entire path the the name field).
 
@@ -38,7 +38,7 @@ Greetings from [username]!
 
 ## Branches
 
-- [ ] You can direclty add the new file to a new branch `[username]-slide` (replace [username] with your GitHub user name). 
+- [ ] You can directly add the new file to a new branch `[username]-slide` (replace [username] with your GitHub user name). 
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204308248-2d5bbdd8-44a0-4521-b078-235f658e8324.png">
 
