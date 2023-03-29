@@ -1,6 +1,6 @@
 # 🔨 Hands-on: Working with GitHub Projects
 
-In this hands-on lab you will learn how to work with GitHub Projects. The module contains the following sections:
+In this hands-on lab, you will learn how to work with GitHub Projects. The module contains the following sections:
 
 - [Creating a new project](#create-a-new-project)
 - [Adding issues to the Project](#add-existing-issues)
