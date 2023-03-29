@@ -1,6 +1,6 @@
 # 🔨 Hands-on: Working with GitHub Projects
 
-In this hands-on lab you will learn how to work with GitHub Projects. The module contains the following sections:
+In this hands-on lab, you will learn how to work with GitHub Projects. The module contains the following sections:
 
 - [Creating a new project](#create-a-new-project)
 - [Adding issues to the Project](#add-existing-issues)
@@ -65,9 +65,9 @@ In this hands-on lab you will learn how to work with GitHub Projects. The module
 
 - [ ] Save changes to a new view `🗣 Story Board` 
 - [ ] Add two more fields:
-  - [ ] A field `Quater 📆 ` of the type `Iteration`. Set it to 12 weeks starting with the 1st of the current quater.
+  - [ ] A field `Quarter 📆 ` of the type `Iteration`. Set it to 12 weeks starting with the 1st of the current quarter.
   - [ ] A field `Effort 🔨` of type `Number`.
-- [ ] Create a new view `Planning` with the column field `Quater` and `field sum: Effort`. 
+- [ ] Create a new view `Planning` with the column field `Quarter` and `field sum: Effort`. 
    
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204153014-86f82b1d-711f-47e4-ae96-616b2e6ee50d.png">

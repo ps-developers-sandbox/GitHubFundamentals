@@ -1,6 +1,6 @@
 # Part 1.2: 🗒️ Collaborate on ideas
 
-In this part you will learn and practice how to collaborate on Ideas. The part contains the following topics:  
+In this part, you will learn and practice how to collaborate on Ideas. The part contains the following topics:  
 
 - [ ] [GitHub Discussions](#-discussions)
 - [ ] [Wikis and Pages](#%EF%B8%8F-wikis-and--pages)
@@ -19,7 +19,7 @@ GitHub contains a wiki in each repository (see [this example](https://github.com
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204132297-8fea2ca1-53e9-43a1-8aff-267fb30d12fc.png">
 
-The wiki supports many different renderers - not only markdown.
+The wiki supports many different renderers - not only Markdown.
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/5276337/204132252-40a5f7b8-cb3a-4b28-b858-7b7cd8426ecd.png">
 
@@ -31,7 +31,7 @@ It can use [Jekyll](https://jekyllrb.com/) to render markdown files as web pages
 
 ## ✍️ GitHub Issues
 
-- [ ] Pinnes Issues, sort, filter and lables
+- [ ] Pins Issues, sort, filter and lables
 
 <img width="636" alt="image" src="https://user-images.githubusercontent.com/5276337/204133374-7b3e0ef4-24a1-4002-8a9b-f613d33ddd95.png">
 

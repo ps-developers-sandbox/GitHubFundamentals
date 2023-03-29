@@ -1,6 +1,6 @@
 # 🔨 Hands-on: Code reviews
 
-In this hands-on lab you will learn how to perform code reviews. 
+In this hands-on lab, you will learn how to perform code reviews. 
 The exercise consists of the following parts:
 
 - [Getting ready for review](#getting-ready-for-review)
@@ -9,7 +9,7 @@ The exercise consists of the following parts:
 
 ## Getting ready for review
 
-- [ ] Got to **your own pull request** and indicate that you are `Ready for review`: 
+- [ ] Go to **your own pull request** and indicate that you are `Ready for review`: 
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/5276337/204331306-bc5efd99-6bcd-4f3a-bd12-869a04d35765.png">
 

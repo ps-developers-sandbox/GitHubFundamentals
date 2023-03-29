@@ -1,6 +1,6 @@
 # 🔨 Hands-on: Making suggestions
 
-In this hands-on lab you will learn how to make suggestions to pull-requests of others. 
+In this hands-on lab, you will learn how to make suggestions to pull-requests of others. 
 The exercise consists of the following parts:
 
 - [Reply to comments with suggestions](#reply-to-comments)
@@ -24,7 +24,7 @@ The exercise consists of the following parts:
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204315918-0eb92a56-6fea-40da-b836-b86745e28942.png">
 
-- [ ] Note that all lines with copied to the suggestion block. Modify the image by picking another image from https://octodex.github.com/
+- [ ] Note that selected lines are copied to the suggestion block. Modify the image by picking another image from https://octodex.github.com/
 - [ ] Add another single comment
 
 ## Summary
