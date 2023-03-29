@@ -1,6 +1,6 @@
 # 🔨 Hands-on: Applying suggestions
 
-In this hands-on lab you will learn how to apply suggestions made by other users. 
+In this hands-on lab, you will learn how to apply suggestions made by other users. 
 The exercise consists of the following parts:
 
 - [Directly commiting suggestions](#directly-commiting-suggestions)
@@ -17,7 +17,7 @@ The exercise consists of the following parts:
 
 ## Applying batches
 
-- [ ] Got to the `Files changed` tab and add the first suggestion to a batch:
+- [ ] Go to the `Files changed` tab and add the first suggestion to a batch:
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204322744-efbaa96c-94f2-4ec3-9a00-8cdf48b37efa.png">
 
