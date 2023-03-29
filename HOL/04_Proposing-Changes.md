@@ -1,6 +1,6 @@
 # 🔨 Hands-on: Proposing changes
 
-In this hands-on lab you will learn how to propose changes to files using using pull-requests. 
+In this hands-on lab, you will learn how to propose changes to files using using pull-requests. 
 The exercise consists of the following parts:
 - [Editing in GitHub](#editing-in-github)
 - [Branches](#branches)
