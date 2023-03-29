@@ -1,6 +1,6 @@
 # 🔨 Hands-on: working with Issues
 
-In this hands-on lab, you will practice to working with nested Issues, Labels, Milestones, and Issue Templates. 
+In this hands-on lab, you will practice working with nested Issues, Labels, Milestones, and Issue Templates. 
 
 The lab contains the following sections:
 - [Creating and nesting issues](#creating-issues)
