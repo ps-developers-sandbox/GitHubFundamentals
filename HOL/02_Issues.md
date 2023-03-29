@@ -1,6 +1,6 @@
 # 🔨 Hands-on: working with Issues
 
-In this hands-on lab you will practice to work with nested Issues, Labels, Milestones, and Issue Templates. 
+In this hands-on lab, you will practice to working with nested Issues, Labels, Milestones, and Issue Templates. 
 
 The lab contains the following sections:
 - [Creating and nesting issues](#creating-issues)
@@ -42,7 +42,7 @@ The lab contains the following sections:
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204149627-5d22f3aa-b164-445e-b35f-9d6d0884abe4.png">
 
-- [ ] Use drag and drop to sort the user stories fir the milestone and use <kbd>shift</kbd>+<kbd>j</kbd> or <kbd>shift</kbd>+<kbd>k</kbd> to move items with the keyboard. Note the progression through the closed user story.
+- [ ] Use drag and drop to sort the user stories for the milestone and use <kbd>shift</kbd>+<kbd>j</kbd> or <kbd>shift</kbd>+<kbd>k</kbd> to move items with the keyboard. Note the progression through the closed user story.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204149689-61a7a265-8334-4deb-b821-71e96d73ae37.png">
 
