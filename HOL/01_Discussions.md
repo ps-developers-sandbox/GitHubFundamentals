@@ -1,6 +1,6 @@
 # 🔨 Hands-on: Using with GitHub Discussions
 
-In this hands-on lab you will practice collaboration with other team members using GitHub Discussions.
+In this hands-on lab, you will practice collaborating with other team members using GitHub Discussions.
 
 > **Note**  
 > Use markdown to express yourself. Use as many markdown features as possible.
