@@ -1,5 +1,7 @@
 # GitHub Fundamentals
 
+#Nova label pelo MSO
+
 Repository for the `GitHub Fundamentals` training.
 
 ## 👉 Objectives
