@@ -4,14 +4,14 @@ Repository for the `GitHub Fundamentals` training.
 
 ## 👉 Objectives
 
-- Learning to __navigate GitHub__ and know the most important features (including shortcuts and search)
+- Learning to __navigate GitHub__ and know the most important features
 - Use __GitHub Mobile__, emails, and web to efficiently manage your __notifications__
 - Use GitHub-flavored __Markdown__ to create rich content and collaborate
-- Use __Discussions__ and __Wikis__ with Markdown to collaborate and create content
-- Learn about your __User Profile__, __Contributions__, __Achievements__, and __For You__  
-- Create __nested issues__ and __labels__ to track work and requirements
+- Use __Discussions__, __Wikis__ and __Pages__ with Markdown to collaborate and create content
+- Learn about your __User Profile__, __Contributions__, __Achievements__, and __For You__ 
 - Manage and track your work and requirements using __GitHub Projects__ (including visualization)
 - Effective collaboration using __pull requests__ and __code reviews__ (draft pull requests, suggestions, auto-merge)
+- Manage  __Releases__ and __Tags__ for your repositories
 
 ## Getting ready
 
@@ -33,26 +33,21 @@ For this workshop you need the following:
 
 ### Part 1.1: 🚀 GitHub Fundamentals
 
-- [ ] [Navigating GitHub](01_01_GitHub-Fundamentals.md#-navigating-github)
-- [ ] [Mobile and Profile](01_01_GitHub-Fundamentals.md#-mobile-and--profile)
-- [ ] GitHub-flavored [markdown](01_01_GitHub-Fundamentals.md#-markdown)
+- [ ] 🔨 Hands-on: [Create Repo](HOL/01_Create-Repo.md)
 
 ### Part 1.2: 🗒️ Collaborate on ideas
 
-- [ ] [GitHub Discussions](01_02_Collaborate-on-ideas.md#-discussions)
-- [ ] [Wikis and Pages](01_02_Collaborate-on-ideas.md#%EF%B8%8F-wikis-and--pages)
-- [ ] [GitHub Issues](01_02_Collaborate-on-ideas.md#%EF%B8%8F-github-issues)
-- [ ] [GitHub Projects](01_02_Collaborate-on-ideas.md#-github-projects)
+- [ ] 🔨 Hands-on: [Working with GitHub Issues](HOL/02_Create_Issues.md)
+- [ ] 🔨 Hands-on: [Demo Discussions](HOL/03_Demo_Discussions.md)
+- [ ] 🔨 Hands-on: [Generate and deploy Pages](HOL/04_GitHub_Pages.md)
+- [ ] 🔨 Hands-on: [Create your Wiki](HOL/05_Wikis.md)
+- [ ] 🔮 Documentation: [Markdown Examples](HOL/github_markdown_examples.md)
+- [ ] 🔨 Hands-on: [GitHub Projects](HOL/06_Projects.md)
 
-### Part 2: 🤝 Collaborate on code
+### Part 2.1: 🤝 Collaborate on code
 
-- [ ] Branching strategies and git workflows like GitHub flow
-    - [Git flow](https://nvie.com/posts/a-successful-git-branching-model/)
-    - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
-    - [MyFlow](https://writeabout.net/2021/12/21/myflow-a-successful-git-branching-model-for-devops-teams/)
-- [ ] [Code owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) and [branch protection](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) (demo)
-- [ ] 🔨 Hands-on: [Proposing changes](HOL/04_Proposing-Changes.md)
-- [ ] 🔨 Hands-on: [Making suggestions](HOL/05_Making-suggestions.md)
-- [ ] 🔨 Hands-on: [Applying suggestions](HOL/06_Applying-suggestions.md)
-- [ ] 🔨 Hands-on: [Code reviews](HOL/07_Code-reviews.md)
+- [ ] 🔨 Hands-on: [Proposing changes](HOL/07_Proposing-Changes.md)
+- [ ] 🔨 Hands-on: [Making suggestions](HOL/08_Making-suggestions.md)
+- [ ] 🔨 Hands-on: [Applying suggestions](HOL/09_Applying-suggestions.md)
+- [ ] 🔨 Hands-on: [Code reviews](HOL/10_Code-reviews.md)
 

@@ -3,9 +3,11 @@
 In this hands-on lab, you will learn how to perform code reviews. 
 The exercise consists of the following parts:
 
-- [Getting ready for review](#getting-ready-for-review)
-- [Enable auto-merge](#enable-auto-merge)
-- [Performing the review](#performing-the-review)
+- [🔨 Hands-on: Code reviews](#-hands-on-code-reviews)
+  - [Getting ready for review](#getting-ready-for-review)
+  - [Enable auto-merge](#enable-auto-merge)
+  - [Performing the review](#performing-the-review)
+  - [Summary](#summary)
 
 ## Getting ready for review
 
@@ -56,4 +58,4 @@ Wait until GitHub pages is refreshed and see the results...
 ## Summary
 
 In this lab you've learned how to perform code reviews and use auto-merge.
-You can now go back to [Collaborate on code](../README.md#part-2--collaborate-on-code).
+You can now continue to the next lab.
