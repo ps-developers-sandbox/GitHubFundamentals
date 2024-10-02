@@ -3,9 +3,11 @@
 In this hands-on lab, you will practice working with nested Issues, Labels, Milestones, and Issue Templates. 
 
 The lab contains the following sections:
-- [Creating and nesting issues](#creating-issues)
-- Working with [Milestones](#milestones)
-- Working with [Issue Templates](#issue-templates)
+- [🔨 Hands-on: working with Issues](#-hands-on-working-with-issues)
+  - [Creating Issues](#creating-issues)
+  - [Milestones](#milestones)
+  - [Issue templates](#issue-templates)
+  - [Summary](#summary)
 
 ## Creating Issues
 
@@ -85,4 +87,4 @@ A clear and concise description of what the bug is.
 
 In this hands-on lab you've practiced to work with nested Issues, Labels, Milestones, and Issue Templates. 
 
-You can now continue with [GitHub Projects](../01_02_Collaborate-on-ideas.md#-github-projects)
+You can now continue with the next topic

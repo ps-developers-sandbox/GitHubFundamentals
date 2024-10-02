@@ -1,4 +1,4 @@
-# 🔨 Hands-on: Using with GitHub Discussions
+# Demo: Using with GitHub Discussions
 
 In this hands-on lab, you will practice collaborating with other team members using GitHub Discussions.
 
